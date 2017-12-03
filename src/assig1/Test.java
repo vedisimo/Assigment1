@@ -15,7 +15,8 @@ public class Test {
         System.out.println("Total price: " + wine.price() + " forints");
         
         System.out.println("Vedad napravio jednu promjenu!!");
-
+            
+        System.out.println("Neka promjena 2");
     }
 
 }
